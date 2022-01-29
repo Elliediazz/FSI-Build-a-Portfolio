@@ -3,4 +3,5 @@ div {
     text-align: center;
     color: dimgray;
     font-size: medium;
+    list-style-position: inside;
 }
