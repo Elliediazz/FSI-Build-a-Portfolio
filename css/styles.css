@@ -1,4 +1,4 @@
 div {
     background-color:darkolivegreen;
-    border-style: dotted;
+    cursor: url(../images/cursor.png), pointer;
 }
